@@ -9,8 +9,8 @@ int tensao = 127;
 int potencia;
 
 // Configura\xe7\xf5es de rede
-const char* ssid = "Higor_Unificado";
-const char* password = "Hi345873110";
+const char* ssid = "SeuWifi";
+const char* password = "SuaSenha";
 
 // Cria uma inst\xe2ncia do servidor web ass\xedncrono
 AsyncWebServer server(80);
